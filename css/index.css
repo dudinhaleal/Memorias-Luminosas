@@ -1,0 +1,196 @@
+body{
+    background-color: #fff1e6;
+  }
+  
+  .topo{
+      background-color: #635b5b;
+      
+      
+  }
+  
+  .logos{
+    text-align: left;
+    vertical-align: left;
+  }
+  .loogos{
+    margin-left: auto;
+    display: flex;
+  
+    
+  }
+  .bannerindex{
+    align-items: center;
+    margin-top: 10px;
+    
+  }
+  
+  .banner {
+    width: 100%;
+  }   
+  
+  .monti{
+    font-family: Great Vibes;
+  
+    
+  }
+  
+  .footer{
+      margin-top: 10px;
+      text-align: center;
+      padding: 3px;
+     
+      width: 100% ;
+      background-color: #a23e48;
+      
+    }
+    
+    .fixed {
+      bottom: 0;
+      position: absolute;
+  
+  }
+  
+  .links{
+    a{
+      display:block;
+      color: #fff1e6;
+      text-decoration: none;
+      margin-bottom: 6px;
+      text-align: center;
+  
+    }
+    a:hover{
+      color: #8fc0a9;
+      text-decoration: none;
+    }
+  }
+  
+  h3{
+    margin-top: 6px;
+    color: #8fc0a9;
+  }
+  
+  hr{
+      color: #322b2b;
+      border: 10px solid ;
+      border-radius: 5px;
+      
+    }
+    
+    .colunas{
+      display: flex;
+    }
+    
+    .texto {
+      width: 60%;
+    }
+    
+    .logo{
+  
+      img{
+          margin-bottom: 6px;
+      }
+    }
+    
+    .yahe{
+    
+      margin: 30px;
+      h1{
+        color: #f28aac;
+        
+      }
+    
+    
+      img{
+        align-items: center;
+        margin: auto;
+        width: 100%;
+        border-radius: 6px;
+        
+      }
+      }
+    
+    .socorro{
+      margin: auto;
+      text-align: center;
+      padding-bottom: 30px;
+      width: 40%;
+    }
+    
+    
+    .o_que_cantina{
+        color:#ffa9c5;
+    }
+    
+  form-control.me-2{
+      margin-top: 60px;
+  }
+    
+    .pesquisa{
+      text-align: right;
+    }
+    
+    .navbar-brand{
+        color: white;
+    }
+    
+    
+    .sobre{
+        text-decoration: none;
+    }
+  
+    .sobre:hover{
+        color: rgb(255, 255, 255);
+    }
+    
+    .nav-item{
+        display: flex;
+        align-items: center;
+        a{
+          font-size: 23px;
+            color: rgb(255, 255, 255);
+        }
+    }
+    .nav-item:hover{
+
+        transition: color 2.0s;
+        
+        a{
+          color:#322b2b;
+        }
+        
+    }
+    
+    a.nav-link.active{
+        color: rgb(255, 255, 255);
+    }
+    
+    .botao{
+        border: none;
+        border-radius: 6px;
+        background-color: #a23e48;
+        padding: .375rem .75rem;
+    }
+
+    .navbar-brand{
+        color: white;
+    
+    }
+    
+    .nav-item{
+        
+        a{
+          margin-top: px;
+          margin-right: 25px;
+          margin-left: 25px;
+           color: #ffff;
+           
+  
+        }
+    }
+    
+  
+    
+    a.nav-link.active{
+        color: white;
+    }
