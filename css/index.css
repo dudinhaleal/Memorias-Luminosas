@@ -153,10 +153,11 @@ body{
     }
     .nav-item:hover{
 
-        transition: color 2.0s;
+        
         
         a{
           color:#322b2b;
+          transition: color 0.5s;
         }
         
     }
